@@ -1,4 +1,4 @@
-# *sghost13* system setup scripts
+# *sghost13* Unorganized awesome list
 
 *This is a very unorganized colletion of links whilst i hop between computers for the time being.*
 
