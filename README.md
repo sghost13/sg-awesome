@@ -88,10 +88,6 @@
 
 [OpenSCAP](https://github.com/OpenSCAP) - Open Source Security Compliance Solution
 
-[NSA - National Security Agency's github](https://github.com/NationalSecurityAgency) - NSA is pretty bad morally. learn from the code.
-
-[DOD - Department of Defense's github ](https://github.com/dod-iac) - same as nsa.
-
 [cloudflare](https://developers.cloudflare.com/products/) - API reference, how-to guides, tutorials, example code, and more.
 
 [quad9](https://www.quad9.net/) - An open DNS recursive service for free security and high privacy
