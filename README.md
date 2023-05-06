@@ -4,6 +4,8 @@
 
 ## Unsorted:
 
+[Mozilla infosec guidelines](https://infosec.mozilla.org/guidelines/)
+
 [Full wayland Arch Linux setup](https://www.fosskers.ca/en/blog/wayland)
 
 [Awesome Hyprland](https://github.com/hyprland-community/awesome-hyprland)
