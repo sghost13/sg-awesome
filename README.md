@@ -4,6 +4,8 @@
 
 ## Unsorted:
 
+[Subnet Mask Cheat sheet](https://dnsmadeeasy.com/support/subnet)
+
 [Mozilla infosec guidelines](https://infosec.mozilla.org/guidelines/)
 
 [Full wayland Arch Linux setup](https://www.fosskers.ca/en/blog/wayland)
