@@ -4,6 +4,10 @@
 
 ## Unsorted:
 
+[Skydroid - A decentralized domain-based App Store for Android](https://github.com/redsolver/skydroid)
+
+[Obtanian - Get Android App Updates Directly From the Source](https://github.com/ImranR98/Obtainium)
+
 [The Linux Foundation Projects](https://www.linuxfoundation.org/projects)
 
 [Subnet Mask Cheat sheet](https://dnsmadeeasy.com/support/subnet)
