@@ -4,6 +4,8 @@
 
 ## Unsorted:
 
+[Advanced Linux Routing Guide](https://tldp.org/HOWTO/pdf/Adv-Routing-HOWTO.pdf)
+
 [Skydroid - A decentralized domain-based App Store for Android](https://github.com/redsolver/skydroid)
 
 [Obtanian - Get Android App Updates Directly From the Source](https://github.com/ImranR98/Obtainium)
